@@ -22,3 +22,5 @@ Atuo com foco no desenvolvimento de sistemas backend, com interesse prático e a
 *   **Linguagens:** Go (Golang), com foco em desenvolvimento backend de alta performance.
 *   **Novas Áreas:** Machine Learning e inteligência artificial aplicada.
 *   **Aprofundamento Contínuo:** Arquitetura de sistemas e práticas estruturais de cibersegurança.
+
+*   **Email:** luidge.carvalho2005@gmail.com
