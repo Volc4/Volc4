@@ -9,7 +9,7 @@ Atuo com foco no desenvolvimento de sistemas backend, com interesse prático e a
 *   **Linguagens (Experiência Principal):** Java(Spring), C, C++, Python
 *   **Em Aprimoramento / Estudo Ativo:** SQL, Cibersegurança
 *   **Conhecimentos Acadêmicos / Fundamentos:** Assembly, OpenGL, Processamento Digital de Imagens (PDI), HTML e CSS
-*   
+
 ### 💻 Projetos Principais
 
 *   **[LibraryAPI](https://github.com/Volc4/Libraryapi):** API desenvolvida em Java com Spring Boot. O projeto aplica conceitos avançados do framework e representa meu foco atual de desenvolvimento backend.
