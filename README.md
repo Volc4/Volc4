@@ -1,4 +1,4 @@
-# Luidge Carvalho
+# Luidg Carvalho
 
 Estudante do 5º período de Ciência da Computação na Universidade Federal do Piauí (UFPI). 
 
