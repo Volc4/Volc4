@@ -16,3 +16,9 @@ Atuo com foco no desenvolvimento de sistemas backend, com interesse prático e a
 *   **[Processamento de Documentos Históricos](https://github.com/Volc4/Processamento-de-Documentos-Historicos):** Aplicação de técnicas de Processamento Digital de Imagens (PDI) focada na análise e tratamento de documentos históricos.
 *   **[Nameless Game (Computação Gráfica)](https://github.com/Volc4/project-nameless-game):** Jogo desenvolvido como projeto acadêmico, focado na aplicação prática de conceitos de renderização utilizando OpenGL.
 *   **[Simulador de Loja (Projeto PE)](https://github.com/Volc4/projetoPE):** Mini simulador de um sistema de gerenciamento de loja em C, desenvolvido para a disciplina de Programação Estruturada.
+
+### 🎯 Próximos Passos e Interesses
+
+*   **Linguagens:** Go (Golang), com foco em desenvolvimento backend de alta performance.
+*   **Novas Áreas:** Machine Learning e inteligência artificial aplicada.
+*   **Aprofundamento Contínuo:** Arquitetura de sistemas e práticas estruturais de cibersegurança.
