@@ -26,3 +26,4 @@ Atuo com foco no desenvolvimento de sistemas backend, com interesse prático e a
 ### 📬 Contato
 
 *   **Email:** luidge.carvalho2005@gmail.com
+*   **Linkedin:** https://www.linkedin.com/in/luidge-carvalho/
